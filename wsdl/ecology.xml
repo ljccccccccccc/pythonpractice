@@ -1,0 +1,237 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soap:Body>
+        <ns1:getToDoWorkflowRequestListResponse xmlns:ns1="webservices.services.weaver.com.cn">
+            <ns1:out>
+                <ns2:WorkflowRequestInfo xmlns:ns2="http://webservices.workflow.weaver">
+                    <canEdit xmlns="http://webservices.workflow.weaver">false</canEdit>
+                    <canView>false</canView>
+                    <createTime>2020-05-22 13:50:35</createTime>
+                    <creatorId>1453</creatorId>
+                    <creatorName>����</creatorName>
+                    <currentNodeId>957</currentNodeId>
+                    <currentNodeName>04������ȷ��</currentNodeName>
+                    <forwardButtonName xsi:nil="true"></forwardButtonName>
+                    <isnextflow xsi:nil="true"></isnextflow>
+                    <lastOperateTime>2020-05-25 17:50:02</lastOperateTime>
+                    <lastOperatorName>���ѳ�</lastOperatorName>
+                    <messageType xsi:nil="true"></messageType>
+                    <mustInputRemark>false</mustInputRemark>
+                    <needAffirmance>false</needAffirmance>
+                    <receiveTime>2020-05-25 17:50:02</receiveTime>
+                    <rejectButtonName xsi:nil="true"></rejectButtonName>
+                    <remark xsi:nil="true"></remark>
+                    <requestId>186029</requestId>
+                    <requestLevel>0</requestLevel>
+                    <requestName>IT002-IT������������-����-2020-05-22</requestName>
+                    <status>�ύ������ȷ��</status>
+                    <subbackButtonName xsi:nil="true"></subbackButtonName>
+                    <submitButtonName xsi:nil="true"></submitButtonName>
+                    <subnobackButtonName xsi:nil="true"></subnobackButtonName>
+                    <workflowBaseInfo>
+                        <workflowId>150</workflowId>
+                        <workflowName>IT002-IT������������</workflowName>
+                        <workflowTypeId></workflowTypeId>
+                        <workflowTypeName></workflowTypeName>
+                    </workflowBaseInfo>
+                    <workflowDetailTableInfos xsi:nil="true"></workflowDetailTableInfos>
+                    <workflowHtmlShow xsi:nil="true"></workflowHtmlShow>
+                    <workflowHtmlTemplete xsi:nil="true"></workflowHtmlTemplete>
+                    <workflowMainTableInfo xsi:nil="true"></workflowMainTableInfo>
+                    <workflowPhrases xsi:nil="true"></workflowPhrases>
+                    <workflowRequestLogs xsi:nil="true"></workflowRequestLogs>
+                </ns2:WorkflowRequestInfo>
+                <ns2:WorkflowRequestInfo xmlns:ns2="http://webservices.workflow.weaver">
+                    <canEdit xmlns="http://webservices.workflow.weaver">false</canEdit>
+                    <canView>false</canView>
+                    <createTime>2019-09-19 14:04:06</createTime>
+                    <creatorId>1453</creatorId>
+                    <creatorName>����</creatorName>
+                    <currentNodeId>955</currentNodeId>
+                    <currentNodeName>01����������</currentNodeName>
+                    <forwardButtonName xsi:nil="true"></forwardButtonName>
+                    <isnextflow xsi:nil="true"></isnextflow>
+                    <lastOperateTime>2019-09-20 11:20:40</lastOperateTime>
+                    <lastOperatorName>�</lastOperatorName>
+                    <messageType xsi:nil="true"></messageType>
+                    <mustInputRemark>false</mustInputRemark>
+                    <needAffirmance>false</needAffirmance>
+                    <receiveTime>2019-09-20 11:20:40</receiveTime>
+                    <rejectButtonName xsi:nil="true"></rejectButtonName>
+                    <remark xsi:nil="true"></remark>
+                    <requestId>116665</requestId>
+                    <requestLevel>0</requestLevel>
+                    <requestName>IT002-IT������������-����-2019-09-19</requestName>
+                    <status>01����������</status>
+                    <subbackButtonName xsi:nil="true"></subbackButtonName>
+                    <submitButtonName xsi:nil="true"></submitButtonName>
+                    <subnobackButtonName xsi:nil="true"></subnobackButtonName>
+                    <workflowBaseInfo>
+                        <workflowId>150</workflowId>
+                        <workflowName>IT002-IT������������</workflowName>
+                        <workflowTypeId></workflowTypeId>
+                        <workflowTypeName></workflowTypeName>
+                    </workflowBaseInfo>
+                    <workflowDetailTableInfos xsi:nil="true"></workflowDetailTableInfos>
+                    <workflowHtmlShow xsi:nil="true"></workflowHtmlShow>
+                    <workflowHtmlTemplete xsi:nil="true"></workflowHtmlTemplete>
+                    <workflowMainTableInfo xsi:nil="true"></workflowMainTableInfo>
+                    <workflowPhrases xsi:nil="true"></workflowPhrases>
+                    <workflowRequestLogs xsi:nil="true"></workflowRequestLogs>
+                </ns2:WorkflowRequestInfo>
+                <ns2:WorkflowRequestInfo xmlns:ns2="http://webservices.workflow.weaver">
+                    <canEdit xmlns="http://webservices.workflow.weaver">false</canEdit>
+                    <canView>false</canView>
+                    <createTime>2019-09-19 14:08:14</createTime>
+                    <creatorId>1453</creatorId>
+                    <creatorName>����</creatorName>
+                    <currentNodeId>251</currentNodeId>
+                    <currentNodeName>01����������</currentNodeName>
+                    <forwardButtonName xsi:nil="true"></forwardButtonName>
+                    <isnextflow xsi:nil="true"></isnextflow>
+                    <lastOperateTime>2019-09-20 08:43:33</lastOperateTime>
+                    <lastOperatorName>������</lastOperatorName>
+                    <messageType xsi:nil="true"></messageType>
+                    <mustInputRemark>false</mustInputRemark>
+                    <needAffirmance>false</needAffirmance>
+                    <receiveTime>2019-09-20 08:43:33</receiveTime>
+                    <rejectButtonName xsi:nil="true"></rejectButtonName>
+                    <remark xsi:nil="true"></remark>
+                    <requestId>116670</requestId>
+                    <requestLevel>0</requestLevel>
+                    <requestName>IT001-��ϢϵͳȨ�޼��˺�����-����-2019-09-19</requestName>
+                    <status>�˻�</status>
+                    <subbackButtonName xsi:nil="true"></subbackButtonName>
+                    <submitButtonName xsi:nil="true"></submitButtonName>
+                    <subnobackButtonName xsi:nil="true"></subnobackButtonName>
+                    <workflowBaseInfo>
+                        <workflowId>54</workflowId>
+                        <workflowName>IT001-��ϢϵͳȨ�޼��˺�����</workflowName>
+                        <workflowTypeId></workflowTypeId>
+                        <workflowTypeName></workflowTypeName>
+                    </workflowBaseInfo>
+                    <workflowDetailTableInfos xsi:nil="true"></workflowDetailTableInfos>
+                    <workflowHtmlShow xsi:nil="true"></workflowHtmlShow>
+                    <workflowHtmlTemplete xsi:nil="true"></workflowHtmlTemplete>
+                    <workflowMainTableInfo xsi:nil="true"></workflowMainTableInfo>
+                    <workflowPhrases xsi:nil="true"></workflowPhrases>
+                    <workflowRequestLogs xsi:nil="true"></workflowRequestLogs>
+                </ns2:WorkflowRequestInfo>
+                <ns2:WorkflowRequestInfo xmlns:ns2="http://webservices.workflow.weaver">
+                    <canEdit xmlns="http://webservices.workflow.weaver">false</canEdit>
+                    <canView>false</canView>
+                    <createTime>2019-05-27 12:25:03</createTime>
+                    <creatorId>1453</creatorId>
+                    <creatorName>����</creatorName>
+                    <currentNodeId>3649</currentNodeId>
+                    <currentNodeName>01����������</currentNodeName>
+                    <forwardButtonName xsi:nil="true"></forwardButtonName>
+                    <isnextflow xsi:nil="true"></isnextflow>
+                    <lastOperateTime>2019-06-27 16:08:19</lastOperateTime>
+                    <lastOperatorName>����Դ</lastOperatorName>
+                    <messageType xsi:nil="true"></messageType>
+                    <mustInputRemark>false</mustInputRemark>
+                    <needAffirmance>false</needAffirmance>
+                    <receiveTime>2019-06-27 16:08:19</receiveTime>
+                    <rejectButtonName xsi:nil="true"></rejectButtonName>
+                    <remark xsi:nil="true"></remark>
+                    <requestId>80791</requestId>
+                    <requestLevel>0</requestLevel>
+                    <requestName>FI003-���÷ѱ�����(����)-����-</requestName>
+                    <status>�˻�</status>
+                    <subbackButtonName xsi:nil="true"></subbackButtonName>
+                    <submitButtonName xsi:nil="true"></submitButtonName>
+                    <subnobackButtonName xsi:nil="true"></subnobackButtonName>
+                    <workflowBaseInfo>
+                        <workflowId>399</workflowId>
+                        <workflowName>FI003-���÷ѱ�����(����)</workflowName>
+                        <workflowTypeId></workflowTypeId>
+                        <workflowTypeName></workflowTypeName>
+                    </workflowBaseInfo>
+                    <workflowDetailTableInfos xsi:nil="true"></workflowDetailTableInfos>
+                    <workflowHtmlShow xsi:nil="true"></workflowHtmlShow>
+                    <workflowHtmlTemplete xsi:nil="true"></workflowHtmlTemplete>
+                    <workflowMainTableInfo xsi:nil="true"></workflowMainTableInfo>
+                    <workflowPhrases xsi:nil="true"></workflowPhrases>
+                    <workflowRequestLogs xsi:nil="true"></workflowRequestLogs>
+                </ns2:WorkflowRequestInfo>
+                <ns2:WorkflowRequestInfo xmlns:ns2="http://webservices.workflow.weaver">
+                    <canEdit xmlns="http://webservices.workflow.weaver">false</canEdit>
+                    <canView>false</canView>
+                    <createTime>2019-04-01 10:30:11</createTime>
+                    <creatorId>1453</creatorId>
+                    <creatorName>����</creatorName>
+                    <currentNodeId>255</currentNodeId>
+                    <currentNodeName>05������ȷ��</currentNodeName>
+                    <forwardButtonName xsi:nil="true"></forwardButtonName>
+                    <isnextflow xsi:nil="true"></isnextflow>
+                    <lastOperateTime>2019-04-03 14:09:15</lastOperateTime>
+                    <lastOperatorName>�</lastOperatorName>
+                    <messageType xsi:nil="true"></messageType>
+                    <mustInputRemark>false</mustInputRemark>
+                    <needAffirmance>false</needAffirmance>
+                    <receiveTime>2019-04-03 14:09:15</receiveTime>
+                    <rejectButtonName xsi:nil="true"></rejectButtonName>
+                    <remark xsi:nil="true"></remark>
+                    <requestId>65154</requestId>
+                    <requestLevel>0</requestLevel>
+                    <requestName>IT001-��ϢϵͳȨ�޼��˺�����-����-2019-04-01</requestName>
+                    <status>�ύ������ȷ��</status>
+                    <subbackButtonName xsi:nil="true"></subbackButtonName>
+                    <submitButtonName xsi:nil="true"></submitButtonName>
+                    <subnobackButtonName xsi:nil="true"></subnobackButtonName>
+                    <workflowBaseInfo>
+                        <workflowId>54</workflowId>
+                        <workflowName>IT001-��ϢϵͳȨ�޼��˺�����</workflowName>
+                        <workflowTypeId></workflowTypeId>
+                        <workflowTypeName></workflowTypeName>
+                    </workflowBaseInfo>
+                    <workflowDetailTableInfos xsi:nil="true"></workflowDetailTableInfos>
+                    <workflowHtmlShow xsi:nil="true"></workflowHtmlShow>
+                    <workflowHtmlTemplete xsi:nil="true"></workflowHtmlTemplete>
+                    <workflowMainTableInfo xsi:nil="true"></workflowMainTableInfo>
+                    <workflowPhrases xsi:nil="true"></workflowPhrases>
+                    <workflowRequestLogs xsi:nil="true"></workflowRequestLogs>
+                </ns2:WorkflowRequestInfo>
+                <ns2:WorkflowRequestInfo xmlns:ns2="http://webservices.workflow.weaver">
+                    <canEdit xmlns="http://webservices.workflow.weaver">false</canEdit>
+                    <canView>false</canView>
+                    <createTime>2019-01-24 15:57:03</createTime>
+                    <creatorId>1453</creatorId>
+                    <creatorName>����</creatorName>
+                    <currentNodeId>2952</currentNodeId>
+                    <currentNodeName>04����������</currentNodeName>
+                    <forwardButtonName xsi:nil="true"></forwardButtonName>
+                    <isnextflow xsi:nil="true"></isnextflow>
+                    <lastOperateTime>2019-02-11 10:17:18</lastOperateTime>
+                    <lastOperatorName>����</lastOperatorName>
+                    <messageType xsi:nil="true"></messageType>
+                    <mustInputRemark>false</mustInputRemark>
+                    <needAffirmance>false</needAffirmance>
+                    <receiveTime>2019-01-25 05:31:30</receiveTime>
+                    <rejectButtonName xsi:nil="true"></rejectButtonName>
+                    <remark xsi:nil="true"></remark>
+                    <requestId>50053</requestId>
+                    <requestLevel>0</requestLevel>
+                    <requestName>HR006-Ա����������-����-2019-01-24</requestName>
+                    <status>�ύ����������</status>
+                    <subbackButtonName xsi:nil="true"></subbackButtonName>
+                    <submitButtonName xsi:nil="true"></submitButtonName>
+                    <subnobackButtonName xsi:nil="true"></subnobackButtonName>
+                    <workflowBaseInfo>
+                        <workflowId>324</workflowId>
+                        <workflowName>HR006-Ա����������</workflowName>
+                        <workflowTypeId></workflowTypeId>
+                        <workflowTypeName></workflowTypeName>
+                    </workflowBaseInfo>
+                    <workflowDetailTableInfos xsi:nil="true"></workflowDetailTableInfos>
+                    <workflowHtmlShow xsi:nil="true"></workflowHtmlShow>
+                    <workflowHtmlTemplete xsi:nil="true"></workflowHtmlTemplete>
+                    <workflowMainTableInfo xsi:nil="true"></workflowMainTableInfo>
+                    <workflowPhrases xsi:nil="true"></workflowPhrases>
+                    <workflowRequestLogs xsi:nil="true"></workflowRequestLogs>
+                </ns2:WorkflowRequestInfo>
+            </ns1:out>
+        </ns1:getToDoWorkflowRequestListResponse>
+    </soap:Body>
+</soap:Envelope>
